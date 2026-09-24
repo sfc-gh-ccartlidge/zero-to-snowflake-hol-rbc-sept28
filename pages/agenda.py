@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("📋 Agenda")
 
-st.markdown("**Zero to Snowflake Hands-on Lab — July 30, 2026**")
+st.markdown("**Zero to Snowflake Hands-on Lab — September 28, 2026**")
 
 st.markdown("---")
 

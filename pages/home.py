@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.markdown('<p class="big-title">Zero to Snowflake</p>', unsafe_allow_html=True)
-st.markdown('<p class="subtitle">Hands-on Lab · July 30, 2026</p>', unsafe_allow_html=True)
+st.markdown('<p class="subtitle">Hands-on Lab · September 28, 2026</p>', unsafe_allow_html=True)
 
 col1, col2, col3 = st.columns(3)
 with col1:
